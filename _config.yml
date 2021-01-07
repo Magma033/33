@@ -17,8 +17,8 @@ lang: zh-CN
 title: 郑秋珍的Jekyll小屋
 description: 郑秋珍的Jekyll小屋
 email:
-baseurl: "/jekyll-theme-basically-basic"
-url: "https://zqznewmedia.gitee.io"
+baseurl: "/zhengqiuzhen"
+url: "https://zqznewmedia.gitee.io/zhengqiuzhen"
 author:
   name: 郑秋珍
   twitter:
@@ -26,7 +26,7 @@ author:
 twitter_username:
 github_username: z123-qz
 
-logo: "/assets/images/logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/assets/images/logo_head portrait.jpg" # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
