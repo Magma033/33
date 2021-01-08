@@ -4,9 +4,13 @@
 
 /* Colors */
 $base-color:  #c9b5d2 !default;
-$text-color:   #e9b5d2 !default;
-$accent-color: #951556 !default;
-$background-color: #e9b5d2 !default;
-$code-background-color:  linear-gradient( #35bcbf 40%, #41506b 100%) !default;
+$text-color:   #90f6d7 !default;
+$accent-color:  #c9b5d2 !default;
+$background-color: linear-gradient( #35bcbf 40%, #41506b 100%) !default;
+$code-background-color:  #fff !default;
 $border-color: rgba($text-color, 0.5) !default;
 $overlay-color: #e9b5d2 !default;
+
+$serif: DFKai-SB,Kai,Kaiti SC,KaiTi,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,Songti SC,Georgia, Times, serif !default;
+$sans-serif: "Helvetica Neue",YouYuan,\\5E7C\5706,幼圆,"Segoe UI",-apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI","Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+暂无评论
