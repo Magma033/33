@@ -1,4 +1,4 @@
-
+---
 layout: page
 title: 关于平面设计那些事
 excerpt_separator: "<!--more-->"
