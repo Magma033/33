@@ -35,12 +35,12 @@ categories:
 ### title为在导航中显示的导航文本，permalink路径的设置需要与文章对应
 
 ### 文章命名要正确,格式如下：
-![图片命名](https://gitee.com/zqznewmedia/zhengqiuzhen/blob/master/assets/images/study%20notes%20photo_2.jpg)
+![图片命名](assets/images/study notes photo_2.jpg)
 
 
 
 ### posts文件夹前面要加横杆，不然文章显示不出来，如图；
-![_posts](https://gitee.com/zqznewmedia/zhengqiuzhen/blob/master/assets/images/study%20notes%20photo_1.png)
+![_posts](assets/images/study notes photo_1.png)
 
 ### 为什么修改背景颜色显示不出来？这就要看你修改的skin是什么，就在相对应的sass里改了。如多ssas的主题与shin不一样，就会导致你更改背景颜色后无法显示。
 
