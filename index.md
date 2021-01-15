@@ -1,5 +1,5 @@
 ---
 layout: home
-image: /assets/images/_banner.jpg
+image: /assets/images/yaya.jpg
 ---
 
