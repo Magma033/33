@@ -6,10 +6,6 @@ image: assets/images/pashanhu.jpg
 ---
 
 ### 个人信息
----
-image: assets/images/my photo.jpg
-
----
 
 姓名：郑秋珍
 
@@ -18,8 +14,6 @@ image: assets/images/my photo.jpg
 学院：文学与传媒学院
 
 专业：网络与新媒体专业
-
-微信：zqz200002202006
 
 
 [github](https://github.com/z123-qz)
