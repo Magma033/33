@@ -1,7 +1,7 @@
 ----
 title: SVG笔记
 layout: tags
-permalink: /tag/svg制作/
+permalink: /tag/svg笔记/
 taxonomy: SVG笔记
 image: assets/images/yezi.jpg
 ---
