@@ -77,27 +77,11 @@ h1 {text-shadow:2px 2px #FF0000;}
 #### 盒子阴影
 
 ---
-<!DOCTYPE html>
-<html>
-<head>
-<style> 
 div
 {
-width:300px;
-height:100px;
-background-color:#ff9900;
--moz-box-shadow: 10px 10px 5px #888888; 
+w
 box-shadow: 10px 10px 5px #888888;
 }
-</style>
-</head>
-<body>
-
-<div></div>
-
-</body>
-</html>
-
 
 ---
 
