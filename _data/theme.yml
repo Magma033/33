@@ -23,7 +23,8 @@ t:
   of: "of"
   min_read: "1min read"
   present: "当下 Present"
-
+  breadcrumb_home_label: "Home"
+  breadcrumb_separator: "/"
 # Google Fonts
 google_fonts:
   - name: "Fira Sans"
