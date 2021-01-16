@@ -1,9 +1,9 @@
 ---
 title: SVG笔记
 layout: category
-permalink: /categories/svg制作/
-taxonomy: svg制作
-image: assets/images/svg0.jpg
+permalink: /categories/svg笔记/
+taxonomy: svg笔记
+assets/images/_banner.jpg
 ---
 
-分类《svg制作》下的文章：
+分类《svg笔记》下的文章：
