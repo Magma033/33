@@ -53,9 +53,7 @@ body标签、字符编码
 
 ## 文字阴影
 
----
 h1 {text-shadow:2px 2px #FF0000;}
----
 
 三个值分别为偏移值、模糊程度、色值
 
@@ -64,7 +62,7 @@ h1 {text-shadow:2px 2px #FF0000;}
 ---
 div
 {
-w
+
 box-shadow: 10px 10px 5px #888888;
 }
 
